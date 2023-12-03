@@ -5,6 +5,12 @@
   ## Description
   This is a mysql2 project that uses inquirer and node to create a framework to view and make alterations to an employee database.  
 
+  Here is a link to a demonstration of the project.  
+
+  https://drive.google.com/file/d/1MGVEfWf3JykgI74A-ZMWjFkTFNK-ufmK/view
+  
+  ![employee database](https://github.com/JonBay/mysql2-employee-database/assets/134355923/32f1e9a0-c3b6-44a7-a901-840739226e03)
+
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
